@@ -1,6 +1,6 @@
-﻿namespace toml_sharp;
-
-public class Class1
+﻿namespace TomlSharp
 {
-
+	public class Class1
+	{
+	}
 }

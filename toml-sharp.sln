@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toml-sharp", "toml-sharp\toml-sharp.csproj", "{B939A5D9-DB77-4F0B-B95C-2982C9B98CFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pong", "pong\pong.csproj", "{C13E7660-1612-41BD-A423-BB4BE2AB5091}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B939A5D9-DB77-4F0B-B95C-2982C9B98CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B939A5D9-DB77-4F0B-B95C-2982C9B98CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B939A5D9-DB77-4F0B-B95C-2982C9B98CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13E7660-1612-41BD-A423-BB4BE2AB5091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13E7660-1612-41BD-A423-BB4BE2AB5091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13E7660-1612-41BD-A423-BB4BE2AB5091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13E7660-1612-41BD-A423-BB4BE2AB5091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
